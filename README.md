@@ -23,7 +23,7 @@ I’m currently studying Computer Science and plan to pursue a Master’s degree
 
 ##  Currently Learning
 
--  Network Security & TLS
+-  Network Security
 -  Post Quantum Cryptography
 - (Pinescript)
 ---
